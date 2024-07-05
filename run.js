@@ -47,4 +47,11 @@ function runScript(scriptName) {
   });
 }
 
+runScript('satan');
+
+runScript('spkafk');
+runScript('spakalaw');
+
+runScript('chwafk');
+runScript('chawcha3');
 
