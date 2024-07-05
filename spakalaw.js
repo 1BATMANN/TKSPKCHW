@@ -1,10 +1,10 @@
 require('dotenv').config();
 const { Client } = require('discord.js-selfbot-v13');
 const { joinVoiceChannel, getVoiceConnection, entersState, VoiceConnectionStatus } = require('@discordjs/voice');
-const targetUserIds = ['888998939708244039', '538137180502097920']; // List of user IDs to listen to
+const targetUserIds = ['888998939708244039']; // List of user IDs to listen to
 const followCommand = 'AJIW';
 const goCommand = '9AWDU';
-const specificChannelId = '1237099573348929617';
+const specificChannelId = '1258606412897194034';
 const joinDelay = 1000; // 1000 milliseconds (1 second)
 const afkTimeout = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
 const replyDelay = 1000; // 1000 milliseconds (1 second) between replies
